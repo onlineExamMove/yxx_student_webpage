@@ -1,7 +1,0 @@
-{
-  "desc": "易小学系统小程序",
-  "rules": [{
-  "action": "allow",
-  "page": "*"
-  }]
-}
